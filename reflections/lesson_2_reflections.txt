@@ -1,1 +1,6 @@
 it's all about commit several files at once
+
+I should add a group of files at once to commit per logical changes
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help? 
+- When a bunch of people work together
